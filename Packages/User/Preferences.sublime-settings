@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"disable_formatted_linebreak": true,
 	"disable_tab_abbreviations": true,
 	"font_size": 14,
 	"ignored_packages":

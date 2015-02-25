@@ -1,22 +1,10 @@
 [
-{"keys": ["ctrl+s"], "command": "toggle_side_bar"}
-// ,
-// // Browser Refresh
-// { 
-//   "keys": ["super+s"], "command": "browser_refresh",
-//   "args": {
-//     "auto_save": true,
-//     "delay": 0.0,
-//     "activate_browser": false,
-//     "browser_name" : "Google Chrome"
-//   },
-//    "context": [
-//     {
-//       "key": "selector",
-//       "operator": "equal",
-//       "operand": "text.htm,text.html,source.php,source.scss,source.css"
-//     },
-//     { "key": "selector", "operator": "not_equal", "operand": "text.html.markdown" }
-//   ]
-// }
+ {
+        // "keys": ["command+s"], "command": "browser_refresh", "args": {
+        //     "auto_save": true,         // 実行時に自動保存
+        //     "delay": 0.0,              // 遅延時間
+        //     "activate_browser": false, // ブラウザに切り替え
+        //     "browser_name" : "all"     // ブラウザの指定
+        // }
+    }
 ]
