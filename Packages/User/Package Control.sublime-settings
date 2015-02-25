@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Browser Support",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Haml",
+		"HTML5",
+		"jQuery",
+		"jQuery Snippets pack",
+		"LESS",
+		"LESS-build",
+		"Local History",
+		"Package Control",
+		"Print to HTML",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeOnSaveBuild",
+		"Theme - Spacegray"
+	]
+}

@@ -1,0 +1,16 @@
+{
+    "cmd": "haml",
+    "selector": "source.haml",
+    "working_dir": "${file_path}",
+ 
+    "windows":
+    {  
+        "cmd": ["haml.bat", "$file", "$file_path/$file_base_name.html"]
+    },
+     
+    "osx":
+    {
+        "cmd": ["haml", "$file", "$file_path/$file_base_name.html"],
+        "path": "/usr/local/bin:$PATH"
+    }
+}

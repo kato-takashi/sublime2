@@ -1,0 +1,4 @@
+{
+    "filename_filter": "\\.(ts|css|js|sass|less|scss|coffee|haml)$",
+    "build_on_save": 1
+}
